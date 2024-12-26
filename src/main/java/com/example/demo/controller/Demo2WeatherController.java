@@ -1,6 +1,4 @@
 package com.example.demo.controller;
-
-
 import com.example.demo.dto.Demo2WeatherResponse;
 import com.example.demo.dto.WeatherForecastResponse;
 import com.example.demo.service.Demo2WeatherService;
